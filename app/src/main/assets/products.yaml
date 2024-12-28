@@ -1,0 +1,13 @@
+products:
+  - id: "00001001"
+    name: "Продукт 1"
+    price: 10.0
+    weight: 1.5
+  - id: "00000000"
+    name: "Продукт 2"
+    price: 20.0
+    weight: 2.0
+  - id: "789"
+    name: "Продукт 3"
+    price: 30.0
+    weight: 2.5
